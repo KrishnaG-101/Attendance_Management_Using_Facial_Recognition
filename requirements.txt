@@ -1,0 +1,12 @@
+os
+time
+datetime
+csv
+numpy
+pandas
+tkinter
+PIL
+Pillow
+opencv-python
+opencv-contrib-python
+face-detection
