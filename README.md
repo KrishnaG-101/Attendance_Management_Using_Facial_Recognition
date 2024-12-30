@@ -105,3 +105,5 @@ Smart Attendance option is used to mark automatic attendance for any entered sub
 Manual Attendance option is used to mark attendance manually, this option can be used in case of camera or lighting issues, when video feed cannot work properly.
 
 ![screenshot of using manual attendance option](https://github.com/user-attachments/assets/f2811260-a6a7-48c6-9e1d-cc34ea6c2396)
+
+## If you like my work follow me on [GitHub](https://github.com/KrishnaG-101) and [LinkedIn](https://linkedin.com/in/krishna-gelra) and star my repository
